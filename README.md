@@ -1,4 +1,4 @@
-# oxford-translator
+# english-dictionary
 
 This is a Chrome extension to translate English to another languages. Help you improve English vocabulary.
 
